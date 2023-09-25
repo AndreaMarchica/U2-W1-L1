@@ -272,12 +272,15 @@ footer a {
   }
   iframe {
     display: inline-block;
+    vertical-align: middle;
     width: 47%;
-    height: 250px;
+    height: 200px;
   }
   section {
     display: inline-block;
+    vertical-align: middle;
     width: 47%;
+    height: 200px;
   }
   aside h2 {
     font-size: 1.5em;
